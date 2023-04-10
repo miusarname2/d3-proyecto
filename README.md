@@ -102,7 +102,7 @@ Once you're done, submit the URL of your working project with all the tests pass
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/d3/d3-logo/master/d3.png"></code>
 
-## Japones
+## 日本
 
 ![Image](https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png)
 
